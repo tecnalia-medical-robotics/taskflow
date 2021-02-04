@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>taskflow</name>
+  <version>0.0.0</version>
+  <description>Taskflow C++ library for parallel and heterogeneous task programming</description>
+
+  <author email="tsung-wei.huang@utah.edu">Tsung-Wei Huang</author>
+  <maintainer email="tsung-wei.huang@utah.edu">Tsung-Wei Huang</maintainer>
+
+  <license>Taskflow</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+
+</package>
